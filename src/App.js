@@ -1,11 +1,11 @@
 import './App.scss';
-import Header from './components/header';
+import LandingPage from './pages/landingpage';
 
 
 function App() {
   return (
     <div className="App">
-     <Header />
+     <LandingPage />
     </div>
   );
 }

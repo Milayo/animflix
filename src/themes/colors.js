@@ -1,7 +1,7 @@
 
 export const colors = {
   base: {
-    black: "#100F0F",
+    black: "#192026",
     green: "#0F3D3E",
     beige: "#E2DCC8",
   },
